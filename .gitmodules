@@ -1,0 +1,6 @@
+[submodule "ALK-Extract"]
+	path = ALK-Extract
+	url = https://github.com/jreeves3/ALK-Extract.git
+[submodule "satsuma"]
+	path = satsuma
+	url = https://github.com/markusa4/satsuma.git
