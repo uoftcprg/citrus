@@ -1,0 +1,139 @@
+./data/baseballcover13with25.grid.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/baseballcover13with25.grid.lex.log-c 
+./data/baseballcover13with25.grid.lex.log-c total process time since initialization:         7.86    seconds
+./data/baseballcover13with25.grid.lex.log-c total real time since initialization:            7.86    seconds
+./data/baseballcover13with25.grid.lex.log-c maximum resident set size of process:          572.80    MB
+./data/baseballcover13with25.grid.lex.log-c 
+--
+./data/baseballcover13with25.grid.log:c --- [ resources ] ----------------------------------------------------------
+./data/baseballcover13with25.grid.log-c 
+./data/baseballcover13with25.grid.log-c total process time since initialization:        20.35    seconds
+./data/baseballcover13with25.grid.log-c total real time since initialization:           20.37    seconds
+./data/baseballcover13with25.grid.log-c maximum resident set size of process:          567.93    MB
+./data/baseballcover13with25.grid.log-c 
+--
+./data/baseballcover13with25.hier.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/baseballcover13with25.hier.lex.log-c 
+./data/baseballcover13with25.hier.lex.log-c total process time since initialization:         7.77    seconds
+./data/baseballcover13with25.hier.lex.log-c total real time since initialization:            7.78    seconds
+./data/baseballcover13with25.hier.lex.log-c maximum resident set size of process:          572.80    MB
+./data/baseballcover13with25.hier.lex.log-c 
+--
+./data/baseballcover13with25.hier.log:c --- [ resources ] ----------------------------------------------------------
+./data/baseballcover13with25.hier.log-c 
+./data/baseballcover13with25.hier.log-c total process time since initialization:        20.36    seconds
+./data/baseballcover13with25.hier.log-c total real time since initialization:           20.37    seconds
+./data/baseballcover13with25.hier.log-c maximum resident set size of process:          567.92    MB
+./data/baseballcover13with25.hier.log-c 
+--
+./data/baseballcover13with25.log:c --- [ resources ] ----------------------------------------------------------
+./data/baseballcover13with25.log-c 
+./data/baseballcover13with25.log-c total process time since initialization:        32.15    seconds
+./data/baseballcover13with25.log-c total real time since initialization:           32.17    seconds
+./data/baseballcover13with25.log-c maximum resident set size of process:          944.74    MB
+./data/baseballcover13with25.log-c 
+--
+./data/edit_distance019_312.grid.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/edit_distance019_312.grid.lex.log-c 
+./data/edit_distance019_312.grid.lex.log-c total process time since initialization:      5532.07    seconds
+./data/edit_distance019_312.grid.lex.log-c total real time since initialization:         5534.42    seconds
+./data/edit_distance019_312.grid.lex.log-c maximum resident set size of process:          192.40    MB
+./data/edit_distance019_312.grid.lex.log-c 
+--
+./data/edit_distance019_312.grid.log:c --- [ resources ] ----------------------------------------------------------
+./data/edit_distance019_312.grid.log-c 
+./data/edit_distance019_312.grid.log-c total process time since initialization:      5397.18    seconds
+./data/edit_distance019_312.grid.log-c total real time since initialization:         5400.30    seconds
+./data/edit_distance019_312.grid.log-c maximum resident set size of process:          192.38    MB
+./data/edit_distance019_312.grid.log-c 
+--
+./data/edit_distance019_312.hier.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/edit_distance019_312.hier.lex.log-c 
+./data/edit_distance019_312.hier.lex.log-c total process time since initialization:       882.46    seconds
+./data/edit_distance019_312.hier.lex.log-c total real time since initialization:          883.01    seconds
+./data/edit_distance019_312.hier.lex.log-c maximum resident set size of process:          318.62    MB
+./data/edit_distance019_312.hier.lex.log-c 
+--
+./data/edit_distance019_312.hier.log:c --- [ resources ] ----------------------------------------------------------
+./data/edit_distance019_312.hier.log-c 
+./data/edit_distance019_312.hier.log-c total process time since initialization:       885.74    seconds
+./data/edit_distance019_312.hier.log-c total real time since initialization:          886.26    seconds
+./data/edit_distance019_312.hier.log-c maximum resident set size of process:          318.87    MB
+./data/edit_distance019_312.hier.log-c 
+--
+./data/edit_distance019_312.log:c --- [ resources ] ----------------------------------------------------------
+./data/edit_distance019_312.log-c 
+./data/edit_distance019_312.log-c total process time since initialization:      5381.14    seconds
+./data/edit_distance019_312.log-c total real time since initialization:         5384.55    seconds
+./data/edit_distance019_312.log-c maximum resident set size of process:          190.94    MB
+./data/edit_distance019_312.log-c 
+--
+./data/ktf_TF-6.tf_4_0.04_51.grid.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/ktf_TF-6.tf_4_0.04_51.grid.lex.log-c 
+./data/ktf_TF-6.tf_4_0.04_51.grid.lex.log-c total process time since initialization:      9994.06    seconds
+./data/ktf_TF-6.tf_4_0.04_51.grid.lex.log-c total real time since initialization:        10000.00    seconds
+./data/ktf_TF-6.tf_4_0.04_51.grid.lex.log-c maximum resident set size of process:          275.39    MB
+./data/ktf_TF-6.tf_4_0.04_51.grid.lex.log-c 
+--
+./data/ktf_TF-6.tf_4_0.04_51.grid.log:c --- [ resources ] ----------------------------------------------------------
+./data/ktf_TF-6.tf_4_0.04_51.grid.log-c 
+./data/ktf_TF-6.tf_4_0.04_51.grid.log-c total process time since initialization:      9994.42    seconds
+./data/ktf_TF-6.tf_4_0.04_51.grid.log-c total real time since initialization:        10000.00    seconds
+./data/ktf_TF-6.tf_4_0.04_51.grid.log-c maximum resident set size of process:          275.61    MB
+./data/ktf_TF-6.tf_4_0.04_51.grid.log-c 
+--
+./data/ktf_TF-6.tf_4_0.04_51.hier.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/ktf_TF-6.tf_4_0.04_51.hier.lex.log-c 
+./data/ktf_TF-6.tf_4_0.04_51.hier.lex.log-c total process time since initialization:      9994.09    seconds
+./data/ktf_TF-6.tf_4_0.04_51.hier.lex.log-c total real time since initialization:        10000.00    seconds
+./data/ktf_TF-6.tf_4_0.04_51.hier.lex.log-c maximum resident set size of process:          291.23    MB
+./data/ktf_TF-6.tf_4_0.04_51.hier.lex.log-c 
+--
+./data/ktf_TF-6.tf_4_0.04_51.hier.log:c --- [ resources ] ----------------------------------------------------------
+./data/ktf_TF-6.tf_4_0.04_51.hier.log-c 
+./data/ktf_TF-6.tf_4_0.04_51.hier.log-c total process time since initialization:      9994.23    seconds
+./data/ktf_TF-6.tf_4_0.04_51.hier.log-c total real time since initialization:        10000.00    seconds
+./data/ktf_TF-6.tf_4_0.04_51.hier.log-c maximum resident set size of process:          291.08    MB
+./data/ktf_TF-6.tf_4_0.04_51.hier.log-c 
+--
+./data/ktf_TF-6.tf_4_0.04_51.log:c --- [ resources ] ----------------------------------------------------------
+./data/ktf_TF-6.tf_4_0.04_51.log-c 
+./data/ktf_TF-6.tf_4_0.04_51.log-c total process time since initialization:      9994.34    seconds
+./data/ktf_TF-6.tf_4_0.04_51.log-c total real time since initialization:        10000.00    seconds
+./data/ktf_TF-6.tf_4_0.04_51.log-c maximum resident set size of process:          275.47    MB
+./data/ktf_TF-6.tf_4_0.04_51.log-c 
+--
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log-c 
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log-c total process time since initialization:        35.39    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log-c total real time since initialization:           35.45    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log-c maximum resident set size of process:          496.92    MB
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log-c 
+--
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log:c --- [ resources ] ----------------------------------------------------------
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log-c 
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log-c total process time since initialization:        13.24    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log-c total real time since initialization:           13.27    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log-c maximum resident set size of process:          447.12    MB
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log-c 
+--
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log:c --- [ resources ] ----------------------------------------------------------
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log-c 
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log-c total process time since initialization:        29.78    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log-c total real time since initialization:           29.82    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log-c maximum resident set size of process:          473.41    MB
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log-c 
+--
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log:c --- [ resources ] ----------------------------------------------------------
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log-c 
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log-c total process time since initialization:        18.82    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log-c total real time since initialization:           18.83    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log-c maximum resident set size of process:          466.49    MB
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log-c 
+--
+./data/Timetable_C_392_E_50_Cl_26_S_28.log:c --- [ resources ] ----------------------------------------------------------
+./data/Timetable_C_392_E_50_Cl_26_S_28.log-c 
+./data/Timetable_C_392_E_50_Cl_26_S_28.log-c total process time since initialization:        36.48    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.log-c total real time since initialization:           36.52    seconds
+./data/Timetable_C_392_E_50_Cl_26_S_28.log-c maximum resident set size of process:          470.20    MB
+./data/Timetable_C_392_E_50_Cl_26_S_28.log-c 

@@ -1,0 +1,15 @@
+./data/baseballcover13with25.grid.lex.log:s SATISFIABLE
+./data/baseballcover13with25.grid.log:s SATISFIABLE
+./data/baseballcover13with25.hier.lex.log:s SATISFIABLE
+./data/baseballcover13with25.hier.log:s SATISFIABLE
+./data/baseballcover13with25.log:s SATISFIABLE
+./data/edit_distance019_312.grid.lex.log:s SATISFIABLE
+./data/edit_distance019_312.grid.log:s SATISFIABLE
+./data/edit_distance019_312.hier.lex.log:s SATISFIABLE
+./data/edit_distance019_312.hier.log:s SATISFIABLE
+./data/edit_distance019_312.log:s SATISFIABLE
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.lex.log:s SATISFIABLE
+./data/Timetable_C_392_E_50_Cl_26_S_28.grid.log:s SATISFIABLE
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.lex.log:s SATISFIABLE
+./data/Timetable_C_392_E_50_Cl_26_S_28.hier.log:s SATISFIABLE
+./data/Timetable_C_392_E_50_Cl_26_S_28.log:s SATISFIABLE
